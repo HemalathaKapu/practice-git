@@ -6,3 +6,8 @@ public sattic int add(int n1,n2){
 return n1+n2;
 }
 }
+class driver class{
+public static void main(String[] args){
+system.out.println("Driver Class");
+}
+}
